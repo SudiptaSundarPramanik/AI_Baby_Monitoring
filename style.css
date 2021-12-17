@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+
+.heading{
+    margin: 0%;
+    width: 100%;
+    font-size: 23px;
+}
+
+canvas{
+    margin: solid 0px white;
+    border: 25px;
+    border-radius: 75px;
+    box-shadow: 1px 38px 38px red;
+    background-image: "baby.jpg";
+}
